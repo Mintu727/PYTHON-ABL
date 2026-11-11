@@ -1,0 +1,10 @@
+TEST CASES — Timetable Conflict Detection
+
+1. Input: Monday 09:00-10:00 and 09:45-10:45
+   Expected: Overlap detected
+
+2. Input: Classes on different days
+   Expected: No overlap
+
+3. Input: Same room with overlapping times
+   Expected: Student and room clash

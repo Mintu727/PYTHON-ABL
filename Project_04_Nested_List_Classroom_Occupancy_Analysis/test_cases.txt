@@ -1,0 +1,10 @@
+TEST CASES — Classroom Occupancy
+
+1. Input: R101: new unique roll number
+   Expected: Allocated
+
+2. Input: R102: duplicate roll number
+   Expected: Reported as duplicate
+
+3. Input: No empty seats remain
+   Expected: Reported as unallocated

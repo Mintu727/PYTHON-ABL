@@ -1,0 +1,10 @@
+TEST CASES — Academic Risk Classification
+
+1. Input: Akhil: average 45; attendance 60; lab 35
+   Expected: High Risk; three risk factors
+
+2. Input: Bina: average 64.67; attendance 72; lab 48
+   Expected: Medium Risk
+
+3. Input: Charu: high marks and attendance
+   Expected: Low Risk

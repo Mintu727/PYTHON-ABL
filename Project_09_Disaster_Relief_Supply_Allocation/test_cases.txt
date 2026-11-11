@@ -1,0 +1,10 @@
+TEST CASES — Disaster Relief Allocation
+
+1. Input: Coastal Zone: demand 100; urgency 1
+   Expected: Served before urgency 2 and 3
+
+2. Input: River Zone: demand 70; urgency 1
+   Expected: Served next; stable input order
+
+3. Input: Total demand 310; stock 220
+   Expected: Total shortage is 90 units

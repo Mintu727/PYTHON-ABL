@@ -1,0 +1,10 @@
+TEST CASES — Smart Campus Management
+
+1. Input: Select menu option 1
+   Expected: Displays records and mark averages
+
+2. Input: Select menu option 2
+   Expected: Flags attendance below 75%
+
+3. Input: Register S101 for Tech Fest twice
+   Expected: First registration succeeds; duplicate rejected

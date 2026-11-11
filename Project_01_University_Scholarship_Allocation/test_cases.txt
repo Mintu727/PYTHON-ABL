@@ -1,0 +1,10 @@
+TEST CASES — Scholarship Allocation
+
+1. Input: Asha: 88,82,91; attendance 94; income 180000
+   Expected: Eligible; rank 1
+
+2. Input: Charan: one subject mark 58
+   Expected: Rejected: subject mark below 60
+
+3. Input: Divya: attendance 82
+   Expected: Rejected: attendance below 85

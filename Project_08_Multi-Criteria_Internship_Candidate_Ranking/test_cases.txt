@@ -1,0 +1,10 @@
+TEST CASES — Internship Candidate Ranking
+
+1. Input: Ira: average 81; assessment 88; attendance 92
+   Expected: Eligible and ranked
+
+2. Input: Kiran: assessment 55
+   Expected: Rejected: assessment below 60
+
+3. Input: Manoj: academic average below 65
+   Expected: Rejected: academic average below 65

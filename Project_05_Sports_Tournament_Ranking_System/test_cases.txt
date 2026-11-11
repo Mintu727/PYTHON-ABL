@@ -1,0 +1,10 @@
+TEST CASES — Sports Tournament Ranking
+
+1. Input: Falcons vs Tigers: 2-1
+   Expected: Falcons receive 3 points
+
+2. Input: Eagles vs Sharks: 1-1
+   Expected: Both receive 1 point
+
+3. Input: Teams have equal points
+   Expected: Goal difference then goals scored decides rank

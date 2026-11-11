@@ -1,0 +1,10 @@
+TEST CASES — Student Record Consistency
+
+1. Input: CSE101 first valid record
+   Expected: VALID
+
+2. Input: CSE101 repeated
+   Expected: INVALID: duplicate ID
+
+3. Input: EEE10A contains a letter in numeric suffix
+   Expected: INVALID: ID format

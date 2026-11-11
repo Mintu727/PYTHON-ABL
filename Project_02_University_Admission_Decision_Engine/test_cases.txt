@@ -1,0 +1,10 @@
+TEST CASES — University Admission
+
+1. Input: Anil: Engineering; marks 92,80,78
+   Expected: Eligible for Engineering
+
+2. Input: Farhan: Engineering; Mathematics 68
+   Expected: Rejected: Mathematics below 75
+
+3. Input: Bhavana: Science; marks 70,88,82
+   Expected: Eligible for Science
